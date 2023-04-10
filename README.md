@@ -8,6 +8,7 @@ I'm a graduate student majoring in Electrical Engineering (Digital Electronics a
 
 <!-- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Soroosh-N&show_icons=true&locale=en&layout=compact) -->
 
+| Total | Streak |
 | --- | --- |
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Soroosh-N&show_icons=true&locale=en) | ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Soroosh-N) |
 
