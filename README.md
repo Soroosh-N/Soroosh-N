@@ -1,6 +1,6 @@
 ----
 ### About me
-I'm a graduate student majoring in Electrical Engineering (Digital Electronics and Communication Systems) at Sharif University of Technology, a well-known university in engineering fields. My research interests lie in distributed and decentralized systems, optimization, IoT, and AI, with a particular focus on learning materials. Additionally, I possess valuable working experience in software development, further honing my skills and expertise in these areas. I have a very high knowledge and passion for software design and development. It's some of my hobbies.
+I'm a graduate student majoring in Electrical Engineering (Digital Electronics and Communication Systems) at Sharif University of Technology, a well-known university in engineering fields. My research interests lie in distributed and decentralized systems, optimization, IoT, and AI, with a particular focus on learning materials. Additionally, I possess valuable working experience in software development, further honing my skills and expertise in these areas. I have a very high knowledge and passion for software design and development. It's one of my hobbies.
 
 ----
 
