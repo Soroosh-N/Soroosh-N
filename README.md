@@ -1,7 +1,7 @@
 <h1 align="center">Soroosh Noorzad, GitHub Profile</h1>
 <h3 align="center">Engineering Student</h3>
 
-[![Personal website](https://img.shields.io/website?style=flat-square&up_message=https%3A%2F%2Fdanielgarcia.co%2F&url=https%3A%2F%2Fdanielgarcia.co)](https://danielgarcia.co/) [![Linkdin](https://img.shields.io/badge/linkedin-dagarcia-blue)](https://www.linkedin.com/in/dagarcia/) 
+[![Personal website](https://img.shields.io/website?style=flat-square&up_message=http://snweb.ir/%2F&url=http://snweb.ir/)](http://snweb.ir/) [![Linkdin](https://img.shields.io/badge/linkedin-dagarcia-blue)](https://www.linkedin.com/in/dagarcia/) 
 
 
 ### About me
