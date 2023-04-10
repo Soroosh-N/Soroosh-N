@@ -17,4 +17,3 @@ I'm a graduate student with a major in Electrical Engineering (Digital Electroni
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Soroosh-N)
 
 ----
-![Profile views](https://komarev.com/ghpvc/?username=Soroosh-N&label=Profile%20views&color=0e75b6&style=flat)
