@@ -10,11 +10,11 @@ I'm a graduate student with a major in Electrical Engineering (Digital Electroni
 
 ### Languages and Tools
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=uxdaniel&show_icons=true&locale=en&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Soroosh-N&show_icons=true&locale=en&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=uxdaniel&show_icons=true&locale=en)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Soroosh-N&show_icons=true&locale=en)
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=uxdaniel)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Soroosh-N)
 
 ----
-![Profile views](https://komarev.com/ghpvc/?username=uxdaniel&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Soroosh-N&label=Profile%20views&color=0e75b6&style=flat)
