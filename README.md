@@ -1,6 +1,10 @@
 ----
 ### About me
-I'm a graduate student majoring in Electrical Engineering (Digital Electronics and Communication Systems) at Sharif University of Technology, a well-known university in engineering fields. My research interests lie in distributed and decentralized systems, optimization, IoT, and AI, with a particular focus on learning materials. Additionally, I possess valuable working experience in software development, further honing my skills and expertise in these areas. I have a very high knowledge and passion for software design and development. It's one of my hobbies.
+I'm a Ph.D. student majoring in Electrical and Computer Engineering at the University of Utah.
+
+Current research interest: Implementation of AI/ML techniques into different fields of science, with a main focus on Electronic Design Automation (EDA).
+
+General interests: Working on Embedded systems design and Networking. I have a passion for programming, and I love spending time untangling code and problems.
 
 ----
 
